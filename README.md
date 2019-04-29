@@ -40,5 +40,5 @@ Share your visualization with at least one other person and document their feedb
 **About the Data**
 
 
-In order to solve the question, 'Are discounted orders more or less profitable than non-discounted orders?', I used the sample store data set, Sample - Superstore.xls.
+In order to solve the question, 'Are discounted orders more or less profitable than non-discounted orders?', I used the sample store data set, [Sample - Superstore.xls](https://github.com/kongyangma/Udacity-DAND-T2-P4-Tableau-Story/blob/master/Sample%20-%20Superstore.xls).
 
